@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "PostingService.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/PostingService.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PostingService.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "PostingService.Domain/1.0.0": {
+      "type": "project",
+      "path": "../PostingService.Domain/PostingService.Domain.csproj",
+      "msbuildProject": "../PostingService.Domain/PostingService.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "PostingService.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\vip\\.nuget\\packages\\": {},
@@ -37,7 +56,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Domain\\PostingService.Domain.csproj": {
+              "projectPath": "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Domain\\PostingService.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

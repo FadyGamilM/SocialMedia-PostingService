@@ -1028,6 +1028,19 @@
           }
         }
       },
+      "PostingService.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "PostingService.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PostingService.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PostingService.Application.dll": {}
+        }
+      },
       "PostingService.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -3182,6 +3195,11 @@
         "version.txt"
       ]
     },
+    "PostingService.Application/1.0.0": {
+      "type": "project",
+      "path": "../PostingService.Application/PostingService.Application.csproj",
+      "msbuildProject": "../PostingService.Application/PostingService.Application.csproj"
+    },
     "PostingService.Domain/1.0.0": {
       "type": "project",
       "path": "../PostingService.Domain/PostingService.Domain.csproj",
@@ -3192,7 +3210,7 @@
     "net7.0": [
       "Microsoft.EntityFrameworkCore >= 7.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.0",
-      "PostingService.Domain >= 1.0.0"
+      "PostingService.Application >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3226,8 +3244,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Domain\\PostingService.Domain.csproj": {
-              "projectPath": "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Domain\\PostingService.Domain.csproj"
+            "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Application\\PostingService.Application.csproj": {
+              "projectPath": "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Application\\PostingService.Application.csproj"
             }
           }
         }
