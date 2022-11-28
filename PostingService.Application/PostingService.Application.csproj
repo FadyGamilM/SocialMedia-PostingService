@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PostingService.Domain\PostingService.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

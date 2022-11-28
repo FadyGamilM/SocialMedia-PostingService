@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "PostingService.Application/1.0.0": {
+        "dependencies": {
+          "PostingService.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PostingService.Application.dll": {}
+        }
+      },
+      "PostingService.Domain/1.0.0": {
+        "runtime": {
+          "PostingService.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PostingService.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PostingService.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

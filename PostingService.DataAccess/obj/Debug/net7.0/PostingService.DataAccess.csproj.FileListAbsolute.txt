@@ -1,0 +1,17 @@
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.DataAccess\bin\Debug\net7.0\PostingService.DataAccess.deps.json
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.DataAccess\bin\Debug\net7.0\PostingService.DataAccess.dll
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.DataAccess\bin\Debug\net7.0\PostingService.DataAccess.pdb
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.DataAccess\bin\Debug\net7.0\PostingService.Application.dll
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.DataAccess\bin\Debug\net7.0\PostingService.Domain.dll
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.DataAccess\bin\Debug\net7.0\PostingService.Application.pdb
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.DataAccess\bin\Debug\net7.0\PostingService.Domain.pdb
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.DataAccess\obj\Debug\net7.0\PostingService.DataAccess.csproj.AssemblyReference.cache
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.DataAccess\obj\Debug\net7.0\PostingService.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.DataAccess\obj\Debug\net7.0\PostingService.DataAccess.AssemblyInfoInputs.cache
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.DataAccess\obj\Debug\net7.0\PostingService.DataAccess.AssemblyInfo.cs
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.DataAccess\obj\Debug\net7.0\PostingService.DataAccess.csproj.CoreCompileInputs.cache
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.DataAccess\obj\Debug\net7.0\PostingService.DataAccess.csproj.CopyComplete
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.DataAccess\obj\Debug\net7.0\PostingService.DataAccess.dll
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.DataAccess\obj\Debug\net7.0\refint\PostingService.DataAccess.dll
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.DataAccess\obj\Debug\net7.0\PostingService.DataAccess.pdb
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.DataAccess\obj\Debug\net7.0\ref\PostingService.DataAccess.dll

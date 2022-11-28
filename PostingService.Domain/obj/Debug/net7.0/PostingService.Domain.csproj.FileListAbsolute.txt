@@ -1,0 +1,12 @@
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Domain\bin\Debug\net7.0\PostingService.Domain.deps.json
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Domain\bin\Debug\net7.0\PostingService.Domain.dll
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Domain\bin\Debug\net7.0\PostingService.Domain.pdb
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Domain\obj\Debug\net7.0\PostingService.Domain.csproj.AssemblyReference.cache
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Domain\obj\Debug\net7.0\PostingService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Domain\obj\Debug\net7.0\PostingService.Domain.AssemblyInfoInputs.cache
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Domain\obj\Debug\net7.0\PostingService.Domain.AssemblyInfo.cs
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Domain\obj\Debug\net7.0\PostingService.Domain.csproj.CoreCompileInputs.cache
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Domain\obj\Debug\net7.0\PostingService.Domain.dll
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Domain\obj\Debug\net7.0\refint\PostingService.Domain.dll
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Domain\obj\Debug\net7.0\PostingService.Domain.pdb
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Domain\obj\Debug\net7.0\ref\PostingService.Domain.dll

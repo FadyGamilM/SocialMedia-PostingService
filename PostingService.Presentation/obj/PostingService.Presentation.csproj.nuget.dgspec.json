@@ -4,14 +4,148 @@
     "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Presentation\\PostingService.Presentation.csproj": {}
   },
   "projects": {
-    "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Presentation\\PostingService.Presentation.csproj": {
+    "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Application\\PostingService.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Presentation\\PostingService.Presentation.csproj",
-        "projectName": "PostingService.Presentation",
-        "projectPath": "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Presentation\\PostingService.Presentation.csproj",
+        "projectUniqueName": "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Application\\PostingService.Application.csproj",
+        "projectName": "PostingService.Application",
+        "projectPath": "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Application\\PostingService.Application.csproj",
         "packagesPath": "C:\\Users\\vip\\.nuget\\packages\\",
-        "outputPath": "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Presentation\\obj\\",
+        "outputPath": "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Domain\\PostingService.Domain.csproj": {
+                "projectPath": "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Domain\\PostingService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.DataAccess\\PostingService.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.DataAccess\\PostingService.DataAccess.csproj",
+        "projectName": "PostingService.DataAccess",
+        "projectPath": "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.DataAccess\\PostingService.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\vip\\.nuget\\packages\\",
+        "outputPath": "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Application\\PostingService.Application.csproj": {
+                "projectPath": "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Application\\PostingService.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Domain\\PostingService.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Domain\\PostingService.Domain.csproj",
+        "projectName": "PostingService.Domain",
+        "projectPath": "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Domain\\PostingService.Domain.csproj",
+        "packagesPath": "C:\\Users\\vip\\.nuget\\packages\\",
+        "outputPath": "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,6 +176,93 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Presentation\\PostingService.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Presentation\\PostingService.Presentation.csproj",
+        "projectName": "PostingService.Presentation",
+        "projectPath": "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Presentation\\PostingService.Presentation.csproj",
+        "packagesPath": "C:\\Users\\vip\\.nuget\\packages\\",
+        "outputPath": "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Application\\PostingService.Application.csproj": {
+                "projectPath": "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Application\\PostingService.Application.csproj"
+              },
+              "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.DataAccess\\PostingService.DataAccess.csproj": {
+                "projectPath": "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.DataAccess\\PostingService.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

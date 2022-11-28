@@ -1,0 +1,15 @@
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Application\bin\Debug\net7.0\PostingService.Application.deps.json
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Application\bin\Debug\net7.0\PostingService.Application.dll
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Application\bin\Debug\net7.0\PostingService.Application.pdb
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Application\bin\Debug\net7.0\PostingService.Domain.dll
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Application\bin\Debug\net7.0\PostingService.Domain.pdb
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Application\obj\Debug\net7.0\PostingService.Application.csproj.AssemblyReference.cache
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Application\obj\Debug\net7.0\PostingService.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Application\obj\Debug\net7.0\PostingService.Application.AssemblyInfoInputs.cache
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Application\obj\Debug\net7.0\PostingService.Application.AssemblyInfo.cs
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Application\obj\Debug\net7.0\PostingService.Application.csproj.CoreCompileInputs.cache
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Application\obj\Debug\net7.0\PostingService.Application.csproj.CopyComplete
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Application\obj\Debug\net7.0\PostingService.Application.dll
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Application\obj\Debug\net7.0\refint\PostingService.Application.dll
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Application\obj\Debug\net7.0\PostingService.Application.pdb
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Application\obj\Debug\net7.0\ref\PostingService.Application.dll
