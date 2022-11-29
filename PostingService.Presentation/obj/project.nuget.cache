@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "wZSGM6ofBJmdAj4mv0VPQ93GvHONPOkovWtD+Q2kRWgzmlm6BggOkcnLwHshz4DDREW5kR65EmX5cc1gYcebYA==",
+  "dgSpecHash": "NPZxv6y35EZ2FDNVAu6AptlZq2mjGSXzFWZA1UDN26D3HCHZgE2y2PU4xQkFiNh8yuoJeSeDpDo9w735xr0FIA==",
   "success": true,
   "projectFilePath": "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Presentation\\PostingService.Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vip\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\vip\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\vip\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\vip\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\vip\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\vip\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\vip\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\vip\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\vip\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",

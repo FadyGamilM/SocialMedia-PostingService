@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "0FmT1xNU/ianbtqq570i78P7Jj4JR6sS9ntXbwnPUM9HyIhjTLvBuSRyKkAD56os+Td+dlwf/0y7QuVuOmVj1A==",
+  "dgSpecHash": "PIHJ+MluTQPv2sofaMQRVuxnaCN8FymEiKUKvornX8sp7UY9e6H+8OGVP8MKtseEu0WtJK2Iup36d1ZEmI3DXQ==",
   "success": true,
   "projectFilePath": "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.DataAccess\\PostingService.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vip\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\vip\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\vip\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\vip\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\vip\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\vip\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\vip\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",

@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "PZzBKCD4VoHjL5W3CZ0Mz62nTKguMdcaZ6sQIyygxOB9bOvXOCFy6onhe/JeKOe9jZwtPV+fNfTpTNho1k+d8g==",
+  "dgSpecHash": "xJ4cG9qP9fBEotUbf4e/s3AlL9qmYrbe/MOaPjnYLEy9M6mVwnEYHeD1BWGMczbxRoDwYLBBSOdIhA4Q92Kzeg==",
   "success": true,
   "projectFilePath": "E:\\1- freelancing path\\backend\\SocialMedia-PostingService\\PostingService\\PostingService.Application\\PostingService.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\vip\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\vip\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
