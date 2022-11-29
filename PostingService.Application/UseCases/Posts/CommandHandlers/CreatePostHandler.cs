@@ -19,8 +19,6 @@ public class CreatePostHandler : IRequestHandler<CreatePostCommand, Post>
         var newPost = new Post
         {
             Content = request.Content,
-            CreatedAt = DateTime.Now,
-            UpdatedAt = DateTime.Now,
         };
 
         return await _postRepo.CreatePost(newPost);
