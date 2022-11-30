@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace PostingService.DataAccess.Migrations
 {
     /// <inheritdoc />
-    public partial class createdatabasemodels : Migration
+    public partial class modelthedomainentitiesintodb : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

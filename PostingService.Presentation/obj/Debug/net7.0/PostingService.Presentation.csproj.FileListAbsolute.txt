@@ -74,3 +74,6 @@ E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\Posting
 E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Presentation\obj\Debug\net7.0\PostingService.Presentation.pdb
 E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Presentation\obj\Debug\net7.0\PostingService.Presentation.genruntimeconfig.cache
 E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Presentation\obj\Debug\net7.0\ref\PostingService.Presentation.dll
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Presentation\bin\Debug\net7.0\MediatR.dll
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Presentation\bin\Debug\net7.0\MediatR.Contracts.dll
+E:\1- freelancing path\backend\SocialMedia-PostingService\PostingService\PostingService.Presentation\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

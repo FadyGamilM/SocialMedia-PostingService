@@ -12,8 +12,8 @@ using PostingService.DataAccess;
 namespace PostingService.DataAccess.Migrations
 {
     [DbContext(typeof(PostingServiceDbContext))]
-    [Migration("20221128213802_create-database-models")]
-    partial class createdatabasemodels
+    [Migration("20221130180331_model-the-domain-entities-into-db")]
+    partial class modelthedomainentitiesintodb
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
