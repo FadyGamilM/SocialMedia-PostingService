@@ -18,7 +18,7 @@ public class PostRepository : IPostRepository
         post.UpdatedAt = DateTime.Now;
 
         // add the post to the model 
-        await _context.AddAsync(post);
+        await _context.Posts.AddAsync(post);
 
         // save the changes 
         await _context.SaveChangesAsync();

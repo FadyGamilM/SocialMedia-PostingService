@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PostingService.Application",
+    "\\PostingService.Application\\Abstractions",
+    "\\PostingService.DataAccess\\Repositories",
+    "\\PostingService.Domain\\Entities",
+    "\\PostingService.Presentation\\Filters"
+  ],
+  "SelectedNode": "\\PostingService.Application\\Abstractions\\IPostRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
